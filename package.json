@@ -1,13 +1,13 @@
 {
   "name": "nodejs-first-steps",
   "version": "1.0.0",
-  "description": "",
-  "main": "1-intro.js",
+  "description": "This repo contains the first steps within node ",
+  "main": "app.js",
   "scripts": {
     "start": "nodemon app.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "Alessandro Pecorilla",
   "license": "ISC",
   "dependencies": {
     "lodash": "^4.17.20"
